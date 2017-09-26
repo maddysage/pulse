@@ -1,0 +1,8 @@
+body {
+    font-family: Ubuntu, Roboto, Oxygen-Sans, Cantarell, Helvetica Neue, sans-serif;
+}
+
+.container {
+    max - width: 1200 px;
+    margin: 0 auto;
+}
